@@ -1,4 +1,4 @@
-# Voice-based-Grievance-Redressal-System
+# VOice-based-Grievance-RedressaL
 
 An automated software that records customer feedback,complaints and bank related queries via voice. The recorded grievances of every customer is been analyzed and a report of their problem is generated, which is redirected to the respective departments. The customers can keep track about status of their complaint through the application.
 
